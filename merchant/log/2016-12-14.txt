@@ -1,0 +1,38 @@
+2016-12-14 04:41:03 - https://payment.atomtech.in/paynetz/epi/ftshttps://payment.atomtech.in/paynetz/epi/fts?login=21866&pass=OSTELLO@123&ttype=&prodid=&amt=3000&txncurr=INR&txnscamt=0&clientcode=&txnid=795752&date=14/12/2016%2004:12:03&custacc=&udf1=&udf2=&udf3=&udf4=&ru=
+2016-12-14 04:41:04 - 
+ <html>
+
+<head>
+
+<title>Error</title>
+</head>
+
+<body bgcolor="#C5D8EB">
+
+<table width="100%" align="center" height="100%">
+	<tr height="45%" valign="top">
+		<td width="100%">&nbsp;
+		</td>
+	</tr>
+	<tr height="5%">
+		<td align="center" width="100%">
+            The server encountered an internal error<br>
+		</td>
+	</tr>
+	<tr height="45%" valign="bottom">
+		<td width="100%">&nbsp;
+		</td>
+	</tr>
+</table>
+
+</body>
+
+
+</html>
+2016-12-14 04:41:04 - https://payment.atomtech.in/paynetz/epi/ftshttps://payment.atomtech.in/paynetz/epi/fts?&ttype=&tempTxnId=&token=&txnStage=1
+2016-12-14 05:04:42 - https://payment.atomtech.in/paynetz/epi/fts?login=160&pass=Test@123&ttype=&prodid=&amt=3000&txncurr=INR&txnscamt=0&clientcode=&txnid=84383&date=14/12/2016%2005:12:42&custacc=&udf1=&udf2=&udf3=&udf4=&ru=
+2016-12-14 05:04:43 - <html><head><title>JBossWeb/2.0.1.GA - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 900 - Transaction Type Missing</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Transaction Type Missing</u></p><p><b>description</b> <u>Cannot find message associated with key http.900</u></p><HR size="1" noshade="noshade"><h3>JBossWeb/2.0.1.GA</h3></body></html>
+2016-12-14 05:04:43 - https://payment.atomtech.in/paynetz/epi/fts?&ttype=&tempTxnId=&token=HTTP Status 900 - Transaction Type Missing&txnStage=1
+2016-12-14 05:07:59 - https://payment.atomtech.in/paynetz/epi/fts?login=21866&pass=OSTELLO@123&ttype=&prodid=&amt=3000&txncurr=INR&txnscamt=0&clientcode=&txnid=239097&date=14/12/2016%2005:12:59&custacc=&udf1=&udf2=&udf3=&udf4=&ru=
+2016-12-14 05:08:00 - <html><head><title>JBossWeb/2.0.1.GA - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 900 - Transaction Type Missing</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Transaction Type Missing</u></p><p><b>description</b> <u>Cannot find message associated with key http.900</u></p><HR size="1" noshade="noshade"><h3>JBossWeb/2.0.1.GA</h3></body></html>
+2016-12-14 05:08:00 - https://payment.atomtech.in/paynetz/epi/fts?&ttype=&tempTxnId=&token=HTTP Status 900 - Transaction Type Missing&txnStage=1

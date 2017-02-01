@@ -1,0 +1,4 @@
+[24-Nov-2016 12:53:17 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/amerytec/public_html/ostello/staff/templates/index.php on line 130
+[24-Nov-2016 12:54:09 America/Chicago] PHP Warning:  include_once(../admin/includes/config.php): failed to open stream: No such file or directory in /home2/amerytec/public_html/ostello/staff/templates/index.php on line 4
+[24-Nov-2016 12:54:09 America/Chicago] PHP Warning:  include_once(): Failed opening '../admin/includes/config.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home2/amerytec/public_html/ostello/staff/templates/index.php on line 4
+[24-Nov-2016 12:54:09 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/amerytec/public_html/ostello/staff/templates/index.php on line 137

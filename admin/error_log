@@ -1,0 +1,42 @@
+[24-Oct-2016 02:00:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[24-Oct-2016 02:04:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[24-Oct-2016 02:05:54 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[24-Oct-2016 02:05:55 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[25-Oct-2016 00:06:18 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[25-Oct-2016 00:06:24 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[25-Oct-2016 00:09:30 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[26-Oct-2016 01:42:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[27-Oct-2016 06:05:43 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[01-Nov-2016 08:52:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[01-Nov-2016 08:56:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/admin/staff.php on line 1473
+[01-Nov-2016 08:56:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/admin/staff.php on line 1473
+[01-Nov-2016 08:58:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/admin/staff.php on line 1473
+[01-Nov-2016 09:00:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/admin/staff.php on line 371
+[02-Nov-2016 01:12:30 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[02-Nov-2016 01:12:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[02-Nov-2016 01:36:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[02-Nov-2016 05:32:55 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[02-Nov-2016 06:14:58 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[02-Nov-2016 06:16:19 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[02-Nov-2016 06:18:03 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home2/amerytec/public_html/ostello/admin/foodmenu.php on line 180
+[03-Nov-2016 00:07:01 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/amerytec/public_html/ostello/admin/staff.php on line 357
+[03-Nov-2016 04:01:47 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/amerytec/public_html/ostello/admin/staff.php on line 357
+[03-Nov-2016 04:01:55 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/amerytec/public_html/ostello/admin/staff.php on line 357
+[03-Nov-2016 04:02:35 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/amerytec/public_html/ostello/admin/staff.php on line 357
+[03-Nov-2016 04:02:45 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/amerytec/public_html/ostello/admin/staff.php on line 357
+[03-Nov-2016 04:03:47 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home2/amerytec/public_html/ostello/admin/staff.php on line 357
+[10-Nov-2016 00:47:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/admin/staff.php on line 1402
+[10-Nov-2016 00:47:13 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/admin/staff.php on line 1402
+[10-Nov-2016 00:49:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/admin/staff.php on line 1402
+[10-Nov-2016 00:49:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/admin/staff.php on line 1402
+[14-Dec-2016 13:12:14 America/Chicago] PHP Notice:  Trying to get property of non-object in /home2/amerytec/public_html/ostello/admin/controller.php on line 115
+[14-Dec-2016 13:12:14 America/Chicago] PHP Fatal error:  Call to a member function insert_id() on a non-object in /home2/amerytec/public_html/ostello/admin/controller.php on line 115
+[14-Dec-2016 13:14:23 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home2/amerytec/public_html/ostello/admin/controller.php on line 115
+[14-Dec-2016 13:16:02 America/Chicago] PHP Fatal error:  Call to undefined method mysqli::insert_id() in /home2/amerytec/public_html/ostello/admin/controller.php on line 115
+[14-Dec-2016 13:18:18 America/Chicago] PHP Notice:  Trying to get property of non-object in /home2/amerytec/public_html/ostello/admin/controller.php on line 115
+[14-Dec-2016 13:19:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home2/amerytec/public_html/ostello/admin/controller.php on line 115
+[14-Dec-2016 13:20:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home2/amerytec/public_html/ostello/admin/controller.php on line 115
+[14-Dec-2016 13:20:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home2/amerytec/public_html/ostello/admin/controller.php on line 115
+[14-Dec-2016 13:21:05 America/Chicago] PHP Notice:  Trying to get property of non-object in /home2/amerytec/public_html/ostello/admin/controller.php on line 115
+[14-Dec-2016 13:21:05 America/Chicago] PHP Notice:  Trying to get property of non-object in /home2/amerytec/public_html/ostello/admin/controller.php on line 115
+[15-Dec-2016 01:14:27 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/amerytec/public_html/ostello/admin/foodmenu_chk.php on line 38

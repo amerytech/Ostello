@@ -1,0 +1,6 @@
+2016-12-15 00:00:23 - https://paynetzuat.atomtech.in/paynetz/epi/fts?login=21866&pass=OSTELLO@123&ttype=&prodid=&amt=3000&txncurr=INR&txnscamt=0&clientcode=&txnid=590230&date=15/12/2016%2012:12:23&custacc=&udf1=&udf2=&udf3=&udf4=&ru=
+2016-12-15 00:00:24 - https://paynetzuat.atomtech.in/paynetz/epi/fts?login=21866&pass=OSTELLO@123&ttype=&prodid=&amt=3000&txncurr=INR&txnscamt=0&clientcode=&txnid=75604&date=15/12/2016%2012:12:24&custacc=&udf1=&udf2=&udf3=&udf4=&ru=
+2016-12-15 00:00:25 - 
+2016-12-15 00:00:25 - https://paynetzuat.atomtech.in/paynetz/epi/fts?&ttype=&tempTxnId=&token=&txnStage=1
+2016-12-15 00:00:25 - 
+2016-12-15 00:00:25 - https://paynetzuat.atomtech.in/paynetz/epi/fts?&ttype=&tempTxnId=&token=&txnStage=1

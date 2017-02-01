@@ -1,0 +1,104 @@
+2016-11-27 09:57:50 - https://paynetzuat.atomtech.in/paynetz/epi/fts?login=160&pass=Test@123&ttype=NBFundTransfer&prodid=NSE&amt=&txncurr=INR&txnscamt=0&clientcode=MDA3&txnid=92608&date=27/11/2016%2009:11:50&custacc=1234567890&udf1=&udf2=&udf3=&udf4=&ru=http://amerytech.net/ostello/
+2016-11-27 09:57:52 - <HTML><HEAD>
+<TITLE>Service Unavailable - Fail to connect</TITLE>
+</HEAD><BODY>
+<H1>Service Unavailable</H1>
+The server is temporarily unable to service your request.  Please try again
+later.<P>
+Reference&#32;&#35;6&#46;ff04f17&#46;1480262272&#46;179ac966
+</BODY></HTML>
+
+2016-11-27 09:57:52 - https://paynetzuat.atomtech.in/paynetz/epi/fts?&ttype=NBFundTransfer&tempTxnId=Service Unavailable&token=
+The server is temporarily unable to service your request.  Please try again
+later.&txnStage=1
+2016-11-27 10:04:15 - https://paynetzuat.atomtech.in/paynetz/epi/fts?login=160&pass=Test@123&ttype=NBFundTransfer&prodid=NSE&amt=&txncurr=INR&txnscamt=0&clientcode=MDA3&txnid=204934&date=27/11/2016%2010:11:15&custacc=1234567890&udf1=&udf2=&udf3=&udf4=&ru=http://amerytech.net/ostello/
+2016-11-27 10:04:17 - <HTML><HEAD>
+<TITLE>Service Unavailable - Fail to connect</TITLE>
+</HEAD><BODY>
+<H1>Service Unavailable</H1>
+The server is temporarily unable to service your request.  Please try again
+later.<P>
+Reference&#32;&#35;6&#46;ff04f17&#46;1480262657&#46;17a0a9e4
+</BODY></HTML>
+
+2016-11-27 10:04:17 - https://paynetzuat.atomtech.in/paynetz/epi/fts?&ttype=NBFundTransfer&tempTxnId=Service Unavailable&token=
+The server is temporarily unable to service your request.  Please try again
+later.&txnStage=1
+2016-11-27 10:04:41 - https://paynetzuat.atomtech.in/paynetz/epi/fts?login=160&pass=Test@123&ttype=NBFundTransfer&prodid=NSE&amt=500&txncurr=INR&txnscamt=0&clientcode=MDA3&txnid=510993&date=27/11/2016%2010:11:41&custacc=1234567890&udf1=abcd&udf2=abcd@gmail.com&udf3=9876543210&udf4=hyderabad&ru=http://amerytech.net/ostello/
+2016-11-27 10:04:43 - <HTML><HEAD>
+<TITLE>Service Unavailable - Fail to connect</TITLE>
+</HEAD><BODY>
+<H1>Service Unavailable</H1>
+The server is temporarily unable to service your request.  Please try again
+later.<P>
+Reference&#32;&#35;6&#46;ff04f17&#46;1480262683&#46;17a123d4
+</BODY></HTML>
+
+2016-11-27 10:04:43 - https://paynetzuat.atomtech.in/paynetz/epi/fts?&ttype=NBFundTransfer&tempTxnId=Service Unavailable&token=
+The server is temporarily unable to service your request.  Please try again
+later.&txnStage=1
+2016-11-27 10:05:21 - https://paynetzuat.atomtech.in/paynetz/epi/fts?login=160&pass=Test@123&ttype=&prodid=&amt=&txncurr=INR&txnscamt=0&clientcode=&txnid=169933&date=27/11/2016%2010:11:21&custacc=&udf1=&udf2=&udf3=&udf4=&ru=
+2016-11-27 10:05:23 - <HTML><HEAD>
+<TITLE>Service Unavailable - Fail to connect</TITLE>
+</HEAD><BODY>
+<H1>Service Unavailable</H1>
+The server is temporarily unable to service your request.  Please try again
+later.<P>
+Reference&#32;&#35;6&#46;14f04f17&#46;1480262723&#46;25b14cea
+</BODY></HTML>
+
+2016-11-27 10:05:23 - https://paynetzuat.atomtech.in/paynetz/epi/fts?&ttype=&tempTxnId=Service Unavailable&token=
+The server is temporarily unable to service your request.  Please try again
+later.&txnStage=1
+2016-11-27 10:05:59 - https://paynetzuat.atomtech.in/paynetz/epi/fts?login=160&pass=Test@123&ttype=NBFundTransfer&prodid=NSE&amt=100&txncurr=INR&txnscamt=0&clientcode=MDA3&txnid=804052&date=27/11/2016%2010:11:59&custacc=1234567890&udf1=priyatam&udf2=priyatamannam@yahoo.com&udf3=9876543210&udf4=Hyderabad&ru=http://amerytech.net/ostello/
+2016-11-27 10:06:01 - <HTML><HEAD>
+<TITLE>Service Unavailable - Fail to connect</TITLE>
+</HEAD><BODY>
+<H1>Service Unavailable</H1>
+The server is temporarily unable to service your request.  Please try again
+later.<P>
+Reference&#32;&#35;6&#46;ff04f17&#46;1480262760&#46;17a26144
+</BODY></HTML>
+
+2016-11-27 10:06:01 - https://paynetzuat.atomtech.in/paynetz/epi/fts?&ttype=NBFundTransfer&tempTxnId=Service Unavailable&token=
+The server is temporarily unable to service your request.  Please try again
+later.&txnStage=1
+2016-11-27 13:07:25 - https://paynetzuat.atomtech.in/paynetz/epi/fts?login=160&pass=Test@123&ttype=&prodid=&amt=4000&txncurr=INR&txnscamt=0&clientcode=&txnid=422196&date=27/11/2016%2001:11:25&custacc=&udf1=&udf2=&udf3=&udf4=&ru=
+2016-11-27 13:07:28 - <HTML><HEAD>
+<TITLE>Service Unavailable - Fail to connect</TITLE>
+</HEAD><BODY>
+<H1>Service Unavailable</H1>
+The server is temporarily unable to service your request.  Please try again
+later.<P>
+Reference&#32;&#35;6&#46;ff04f17&#46;1480273648&#46;18447f7b
+</BODY></HTML>
+
+2016-11-27 13:07:28 - https://paynetzuat.atomtech.in/paynetz/epi/fts?&ttype=&tempTxnId=Service Unavailable&token=
+The server is temporarily unable to service your request.  Please try again
+later.&txnStage=1
+2016-11-27 13:17:18 - https://paynetzuat.atomtech.in/paynetz/epi/fts?login=160&pass=Test@123&ttype=&prodid=&amt=5000&txncurr=INR&txnscamt=0&clientcode=&txnid=676427&date=27/11/2016%2001:11:18&custacc=&udf1=&udf2=&udf3=&udf4=&ru=
+2016-11-27 13:17:19 - <HTML><HEAD>
+<TITLE>Service Unavailable - Fail to connect</TITLE>
+</HEAD><BODY>
+<H1>Service Unavailable</H1>
+The server is temporarily unable to service your request.  Please try again
+later.<P>
+Reference&#32;&#35;6&#46;14f04f17&#46;1480274239&#46;26a6ae1d
+</BODY></HTML>
+
+2016-11-27 13:17:19 - https://paynetzuat.atomtech.in/paynetz/epi/fts?&ttype=&tempTxnId=Service Unavailable&token=
+The server is temporarily unable to service your request.  Please try again
+later.&txnStage=1
+2016-11-27 13:17:52 - https://paynetzuat.atomtech.in/paynetz/epi/fts?login=160&pass=Test@123&ttype=&prodid=&amt=5000&txncurr=INR&txnscamt=0&clientcode=&txnid=713209&date=27/11/2016%2001:11:52&custacc=&udf1=&udf2=&udf3=&udf4=&ru=
+2016-11-27 13:17:53 - <HTML><HEAD>
+<TITLE>Service Unavailable - Fail to connect</TITLE>
+</HEAD><BODY>
+<H1>Service Unavailable</H1>
+The server is temporarily unable to service your request.  Please try again
+later.<P>
+Reference&#32;&#35;6&#46;ff04f17&#46;1480274273&#46;184d8fd7
+</BODY></HTML>
+
+2016-11-27 13:17:53 - https://paynetzuat.atomtech.in/paynetz/epi/fts?&ttype=&tempTxnId=Service Unavailable&token=
+The server is temporarily unable to service your request.  Please try again
+later.&txnStage=1

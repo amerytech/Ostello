@@ -1,0 +1,192 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ostello | Mobile</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+		<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" />
+ 		<link rel="stylesheet" href="css/font.css" type="text/css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
+		
+	<!-- //For-Mobile-Apps-and-Meta-Tags -->
+	</head>
+	<body class="inner">
+		<!----- tabs-box ---->
+		<div class="tabs-box ">
+        	<div ><a href="main.html"><img src="images/ost.png" class="img img-responsive center-block" alt="ostello Logo"></a></div>
+            <hr>
+            <ul class="nav nav-pills">
+				<li class="active"><a href="#tab1" role="tab" data-toggle="tab">Home</a></li>
+				<li><a href="#tab3" role="tab" data-toggle="tab">Calendar</a></li>
+				<li><a href="#tab5" role="tab" data-toggle="tab">Profile</a></li>
+                <li><a href="#tab4" role="tab" data-toggle="tab">Logout</a></li>
+				<div class="clearfix"></div>
+			</ul>
+            <hr>
+			<div class="clearfix"></div>
+			<div class="tab-grids tab-content">
+				<div id="tab1" role="tabpanel"  class="tab-pane active">
+					<div id="myCarousel" class="carousel slide" data-ride="carousel">
+					<!-- Indicators -->
+						<ol class="carousel-indicators">
+							<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+							<li data-target="#myCarousel" data-slide-to="1"></li>
+						</ol>
+						<!-- Wrapper for slides -->
+						<div class="carousel-inner" role="listbox">
+							<div class="item active">
+								<img src="images/0.jpg" alt="Chania">
+                                	<div class="carousel-caption">
+                                    	<h1> Ostello </h1>
+                                    </div>
+							</div>
+							<div class="item">
+								<img src="images/1.jpg" alt="Flower">
+                                	<div class="carousel-caption">
+                                    	<h1> Ostello </h1>
+                                    </div>
+							</div>
+						</div>
+					</div>
+                    <div class="clearfix"><br></div>
+					<div class="latest">
+					<h3 class="text-white">Orders</h3>
+					<div class="center-block">
+						<button href="#order" data-toggle="tab" class="btn btn-block btn-lg text-black btn-info">Book Order</button>
+                        <div class="price">
+                        	<p><i></i>Order before 36 hours!</p>
+                    	</div>
+					</div>
+
+					<div class="clearfix"></div>
+					</div>
+				</div>
+				<div id="tab3" role="tabpanel" class="tab-pane">
+					<table class="table-responsive">
+						<tr>
+							<th>DAY</th>
+							<th>DATE</th>		
+							<th>TIME</th>
+						</tr>
+						<tr>
+							<td>Mon</td>
+							<td>20-09-2016</td>		
+							<td><a href="#">Breakfast</a><a href="#">Lunch</a><a href="#">Dinner</a></td>
+						</tr>
+						<tr>
+							<td>Tus</td>
+							<td>21-09-2016</td>		
+							<td><a href="#">Breakfast</a><a href="#">Lunch</a></td>
+						</tr>
+						<tr>
+							<td>wed</td>
+							<td>22-09-2016</td>		
+							<td><a href="#">Breakfast</a><a href="#">Lunch</a><a href="#">Dinner</a></td>
+						</tr>
+					
+						<tr>
+							<td>thu</td>
+							<td>23-09-2016</td>	
+							<td><a href="#">Breakfast</a><a href="#">Lunch</a><a href="#">Dinner</a></td>
+						</tr>
+					
+					</table>
+				</div>
+					<div id="tab4" role="tabpanel" class="tab-pane">
+						<h4>LOGIN INTO YOUR ACCOUNT</h4>
+						 <form>
+									<h3> E-MAIL</h3>
+									<input type="text" class="name"  required="">
+									<h3>PASSWORD</h3>
+									<input type="password" class="password"  required=""><br>
+									<input type="submit" value="SIGN IN"><br>
+									<ul>
+										<li>
+											<input type="checkbox" id="brand1" value="">
+											<label for="brand1"><span></span>Remember me</label>
+										</li>
+									</ul>
+
+								  </form>
+								  <h3>DONT HAVE AN ACCOUNT?</h3>
+									<a href="#" data-toggle="modal" class="btn btn-default" data-target="#myModal2">SIGNUP NOW</a>
+										<div id="myModal2" class="modal fade" role="dialog">
+                                            <div class="modal-dialog">
+                                                <!-- Modal content-->
+                                                <div class="modal-content">
+                                                    <div class="modal-header">
+                                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                                        <h4 class="modal-title">SIGNUP DETAILS</h4>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                     <form>
+                                                        <h3> E-MAIL</h3>
+                                                        <input type="text" class="name"  required=""><br>
+                                                        <h3>PASSWORD</h3>
+                                                        <input type="password" class="password"  required="">
+                                                        <h3>RE-ENTER PASSWORD</h3>
+                                                        <input type="password" class="password" required><br>
+                                                        <h3>MOBILE NO</h3>
+                                                        <input type="text" class="name"  required=""><br>
+                                                        <input type="submit" value="SIGN UP"><br>
+                                                      </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+								</div>
+					</div>
+					<div id="tab5" role="tabpanel" class="tab-pane">
+					<div class="contact">
+                        <div class="cbottom">
+                            <div>
+                                <img src="images/1.jpg" width="100" height="95" class="img img-circle center-block"> <br>
+                                <p class="text-center text-white"><strong>Sandy</strong></p>
+                            </div>
+                            <div class="col-xs-12">	
+                                <form class="form-horizontal">
+                                	<div class="form-group has-feedback">
+                                        <input type="text" placeholder="Your Name" class="form-control" required>
+                                        <i class="form-control-feedback glyphicon glyphicon-user"></i>
+                                    </div>
+                                    <div class="form-group has-feedback">
+                                        <input type="email" placeholder="Your email id" class="form-control" required>
+                                        <i class="form-control-feedback glyphicon glyphicon-send"></i>
+                                    </div>
+                                    <div class="form-group has-feedback">
+                                        <input type="tel" placeholder="Your Mobile Number" class="form-control" required>
+                                        <i class="form-control-feedback glyphicon glyphicon-phone"></i>
+                                    </div>
+                                    <div class="form-group has-feedback">
+                                        <input type="text" placeholder="Your Hostel Name" class="form-control" required>
+                                        <i class="form-control-feedback glyphicon glyphicon-home"></i>
+                                    </div>
+                                    <div class="form-group has-feedback">
+                                        <input type="text" placeholder="Your Bed Number" class="form-control" required>
+                                        <i class="form-control-feedback glyphicon glyphicon-bed"></i>
+                                    </div>
+                                        <input type="submit" value="SEND MESSAGE">
+                                </form>
+                             </div>
+                            <div class="clearfix"></div>
+                        </div>
+	
+					</div>
+					</div>
+			</div>
+		</div>
+		<!----- tabs-box ---->
+		<!----- Comman-js-files ----->
+		<script src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<!----- Comman-js-files ----->
+     <script>   $('#myTabs a').click(function (e) {
+          e.preventDefault()
+          $(this).tab('show')
+        })
+	</script>
+	</body>
+</html>
+

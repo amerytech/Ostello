@@ -1,0 +1,213 @@
+[17-Oct-2016 00:10:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysql_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 95
+[17-Oct-2016 00:10:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysql_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 95
+[17-Oct-2016 00:13:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysql_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 95
+[17-Oct-2016 00:15:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysql_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 95
+[17-Oct-2016 00:15:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysql_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 95
+[18-Oct-2016 08:08:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[18-Oct-2016 08:09:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[18-Oct-2016 08:09:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[18-Oct-2016 08:14:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[18-Oct-2016 08:17:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[18-Oct-2016 08:18:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[18-Oct-2016 08:18:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[18-Oct-2016 08:19:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[18-Oct-2016 08:28:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[19-Oct-2016 01:11:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[19-Oct-2016 01:16:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amerytec/public_html/ostello/staff/index.php:135) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[19-Oct-2016 12:49:55 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 25
+[19-Oct-2016 12:56:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 14
+[20-Oct-2016 06:01:29 America/Chicago] PHP Warning:  include_once(./admin/includes/config.php): failed to open stream: No such file or directory in /home2/amerytec/public_html/ostello/staff/index.php on line 4
+[20-Oct-2016 06:01:29 America/Chicago] PHP Warning:  include_once(): Failed opening './admin/includes/config.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home2/amerytec/public_html/ostello/staff/index.php on line 4
+[20-Oct-2016 06:01:54 America/Chicago] PHP Warning:  include_once(./admin/includes/config.php): failed to open stream: No such file or directory in /home2/amerytec/public_html/ostello/staff/index.php on line 4
+[20-Oct-2016 06:01:54 America/Chicago] PHP Warning:  include_once(): Failed opening './admin/includes/config.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home2/amerytec/public_html/ostello/staff/index.php on line 4
+[20-Oct-2016 06:02:30 America/Chicago] PHP Warning:  include_once(./admin/includes/config.php): failed to open stream: No such file or directory in /home2/amerytec/public_html/ostello/staff/index.php on line 4
+[20-Oct-2016 06:02:30 America/Chicago] PHP Warning:  include_once(): Failed opening './admin/includes/config.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home2/amerytec/public_html/ostello/staff/index.php on line 4
+[20-Oct-2016 06:14:57 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/amerytec/public_html/ostello/staff/index.php on line 5
+[20-Oct-2016 06:17:56 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/amerytec/public_html/ostello/staff/index.php on line 5
+[20-Oct-2016 07:37:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/amerytec/public_html/ostello/staff/index.php on line 5
+[21-Oct-2016 01:44:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 01:57:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 01:59:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 01:59:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 01:59:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 01:59:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 01:59:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 01:59:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:02:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:02:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:03:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:03:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:03:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:03:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:03:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:03:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:08:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:09:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:09:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:10:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:10:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:10:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:10:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:10:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:10:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:10:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:12:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:12:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:12:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:12:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:12:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:12:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:12:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:13:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:13:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:13:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:13:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:13:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:13:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:14:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:14:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:15:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:15:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:15:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:15:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:15:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:15:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:15:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:15:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:15:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:15:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:16:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:17:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:17:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:17:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:17:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:17:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:17:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:31:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:31:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:31:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:31:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:31:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:31:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:31:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:31:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:31:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:32:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:32:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:32:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 02:32:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:14:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:14:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:15:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:15:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:16:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:16:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:16:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:16:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:21:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:24:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:24:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:24:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:24:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:24:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:24:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:12 America/Chicago] PHP Warning:  include_once(./admin/includes/config.php): failed to open stream: No such file or directory in /home2/amerytec/public_html/ostello/staff/index.php on line 4
+[21-Oct-2016 03:25:12 America/Chicago] PHP Warning:  include_once(): Failed opening './admin/includes/config.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home2/amerytec/public_html/ostello/staff/index.php on line 4
+[21-Oct-2016 03:25:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:25:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:26:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:30:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:31:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 225
+[21-Oct-2016 03:31:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[21-Oct-2016 03:31:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[21-Oct-2016 03:31:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[21-Oct-2016 03:31:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[21-Oct-2016 03:31:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 226
+[21-Oct-2016 03:32:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 228
+[21-Oct-2016 03:32:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 228
+[21-Oct-2016 03:32:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 228
+[21-Oct-2016 03:32:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 228
+[21-Oct-2016 03:32:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 228
+[21-Oct-2016 03:32:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 228
+[21-Oct-2016 03:32:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 228
+[21-Oct-2016 03:32:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 228
+[21-Oct-2016 03:32:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 228
+[21-Oct-2016 03:32:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_error' (T_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 228
+[21-Oct-2016 03:37:27 America/Chicago] PHP Parse error:  syntax error, unexpected ''HTTP_X_REQ' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home2/amerytec/public_html/ostello/staff/index.php on line 259
+[21-Oct-2016 04:28:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/staff/index.php on line 274
+[21-Oct-2016 06:55:09 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home2/amerytec/public_html/ostello/staff/index.php on line 304
+[24-Oct-2016 02:49:36 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/amerytec/public_html/ostello/staff/index.php on line 327
+[24-Oct-2016 07:31:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'foodmenu' (T_STRING) in /home2/amerytec/public_html/ostello/staff/foodcalendar.php on line 161
+[24-Oct-2016 07:54:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/amerytec/public_html/ostello/staff/foodcalendar.php on line 161
+[24-Oct-2016 08:00:29 America/Chicago] PHP Parse error:  syntax error, unexpected ''){ ?><a href="foodmenu.php?ho' (T_CONSTANT_ENCAPSED_STRING) in /home2/amerytec/public_html/ostello/staff/foodcalendar.php on line 161
+[24-Oct-2016 08:00:34 America/Chicago] PHP Parse error:  syntax error, unexpected ''){ ?><a href="foodmenu.php?ho' (T_CONSTANT_ENCAPSED_STRING) in /home2/amerytec/public_html/ostello/staff/foodcalendar.php on line 161
+[24-Oct-2016 08:10:31 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '$' in /home2/amerytec/public_html/ostello/staff/foodcalendar.php on line 161
+[25-Oct-2016 07:10:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/staff/index.php on line 260
+[26-Oct-2016 01:34:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 18
+[26-Oct-2016 01:36:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 43
+[26-Oct-2016 03:12:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 154
+[26-Oct-2016 03:17:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 154
+[26-Oct-2016 05:48:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 154
+[26-Oct-2016 07:45:28 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 286
+[27-Oct-2016 09:01:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 506
+[05-Jan-2017 06:40:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 222
+[05-Jan-2017 06:53:02 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 26
+[05-Jan-2017 06:53:19 America/Chicago] PHP Parse error:  syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home2/amerytec/public_html/ostello/staff/foodmenu.php on line 30
+[12-Jan-2017 07:30:25 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 116
+[12-Jan-2017 07:30:27 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 116
+[12-Jan-2017 07:30:27 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 116
+[12-Jan-2017 07:30:33 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 116
+[12-Jan-2017 07:30:33 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 116
+[12-Jan-2017 07:30:58 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 116
+[12-Jan-2017 07:30:59 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 116
+[12-Jan-2017 07:31:01 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 116
+[12-Jan-2017 23:03:15 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/amerytec/public_html/ostello/staff/foodcontroller.php on line 116
