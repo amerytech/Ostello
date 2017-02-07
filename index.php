@@ -50,7 +50,7 @@ if (isset($_SESSION['id_staff'])) {
                         <ul class="nav navbar-nav navbar-right">
                             <li><a class="getApp"  href="#" data-toggle="modal" data-target="#myModal">Sign In &frasl; Sign Up </a>
                             </li>
-                             <li><a href="termsandconditions.php">Terms and Conditions</a>
+                             <li><a href="termsandconditions.php">Amerytech and Conditions</a>
                             </li>
                         </ul>
                     </div>
